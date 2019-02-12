@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   getDataForClicks()
   getData()
-  renderVideo('.git/three.mp4')
+  renderVideo('https://s3.us-east-2.amazonaws.com/fantasy-recipes/three.mp4')
 
   // $(document).ready(function(){
   //   $(".main").tiltedpage_scroll({
